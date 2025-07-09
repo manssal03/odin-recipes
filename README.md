@@ -6,4 +6,3 @@ The project is created to learn basic HTML, a more descriptive description will 
 
 In this project I am going to build a basic recipe website, just from HTML.
 
-Tina är bäst
